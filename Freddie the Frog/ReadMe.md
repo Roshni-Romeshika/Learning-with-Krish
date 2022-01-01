@@ -7,5 +7,5 @@ Write a program where user can submit the distance Freddie can jump and it shoul
 
 Commands used to run the program
 * javac Frog.java
-* javac MainFrog.java
-* java MainFrog
+* javac MainFrogApp.java
+* java MainFrogApp
