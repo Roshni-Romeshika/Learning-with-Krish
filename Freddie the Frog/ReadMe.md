@@ -3,3 +3,9 @@ Again he jumps and this time he can jumps for 3m and rest 2s and again he jumps 
 Now again he can jumps for 5m and repeat the above.
 
 Write a program where user can submit the distance Freddie can jump and it should calculate the number of hops and total resting time for given distance.
+
+
+Commands used to run the program
+* javac Frog.java
+* javac MainFrog.java
+* java MainFrog
