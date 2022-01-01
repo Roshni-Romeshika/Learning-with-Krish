@@ -88,7 +88,7 @@ public class Frog{
 			restingTime += 3.5;
 		}
 		System.out.println("Total Hop Count for " + userDefinedDistance+"m:    " +  hopCount);
-		System.out.println("Total Resting Time for " + userDefinedDistance+"m:   " +  restingTime);
+		System.out.println("Total Resting Time (in seconds) for " + userDefinedDistance+"m:   " +  restingTime);
 
 
 	}
