@@ -6,6 +6,6 @@ spring:
       config:
         server:
           git:
-            uri: https://github.com/Roshni-Romeshika/spring-cloud-config-store
+            uri: https://github.com/Roshni-Romeshika/microservices-config-store
             search-paths:
-              - '*service'
+              - 'service-config/*service'
